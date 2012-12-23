@@ -1,0 +1,13 @@
+"welcome", "willkommen", "benvenuti"
+
+"the farm", "unser hof", "il maso"
+
+"rooms", "zimmer", "stanze"
+
+"surroundings", "umgebung", "dintorni"
+
+"prices", "preise", "prezzi"
+
+"contact", "kontakt", "contattaci"
+
+"about", "über uns", "chi siamo"

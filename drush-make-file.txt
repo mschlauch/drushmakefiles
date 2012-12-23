@@ -23,6 +23,9 @@ projects[feeds_et][patch][]= "http://drupal.org/files/feeds_entity_translation_u
 
 projects[feeds_tamper][version] = "1.0-beta4"
 
+projects[job_scheduler][version] = "2.0-alpha3"
+
+
 projects[galleryformatter][version] = "1.2"
 
 projects[i18n][version] = "1.7"
